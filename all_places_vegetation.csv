@@ -1,0 +1,21 @@
+﻿folder,name,Fluxnet,Location,Lat,Lon,plant,Timeframe,Years,cat3,Clark,Best,Column1,Hobeichi,IA
+Amplero,Amplero,IT-Amp,Italy,41.9,13.6052,Croplands,2002–2008,4,Short,Croplands,Grassland,GRA,Grasslands,Short_Vegetation
+Blodgett,Blodgett,US-Blo,"California, USA",38.9,-120.633,Evergreen Needleleaf,1997–2007,7,Forest,Open needleleaf forest,Evergreen needleleaf,ENF,Evergreen needleleaf forest,Forest
+Bugac,Bugac,HU-Bug,Hungary,46.69,19.6017,Croplands,2002–2008,4,Short,Croplands,Grassland,GRA,Grasslands,Short_Vegetation
+ElSaler,ElSaler,ES-ES1,Spain,39.28,-0.3153,Croplands,2004–2010,2,Short,Permanent Wetlands,Evergreen needleleaf,CRO,Croplands ,Forest
+ElSaler2,ElSaler2,ES-ES2,Spain,39.35,-0.3188,Permanent Wetlands,1999–2006,8,,Croplands,Croplands,ENF,Evergreen needleleaf forest,Short_Vegetation
+Espirra,Espirra,PT-Esp,Portugal,38.64,-8.6018,Woody Savannas,2002–2009,4,,Woody Savannas,Evergreen broadleaf,EBF,Evergreen broadleaf forest,Forest
+FortPeck,FortPeck,US-FPe,"Montana, USA",48.31,-105.102,Grasslands,1999–2013,7,Short,Grassland,Grassland,GRA,Grasslands,Short_Vegetation
+Harvard,Harvard,US-Ha1,"Massachusetts, USA",42.54,-72.1715,Mixed Forests,1991–2013,8,Forest,Deciduous broadleaf forest,Deciduous broadleaf,DBF,Deciduous broadleaf forest,Forest
+Hesse,Hesse,FR-Hes,France,48.67,7.0656,Deciduous Broadleaf,1996–2013,6,Forest,Deciduous broadleaf forest,Deciduous broadleaf,DBF,Deciduous broadleaf forest,Forest
+Howard,Howard,AU-How,Australia,-12.49,131.152,Savannas,2001–2013,4,Savannas,Savannas,Woody savanna,WSA,Woody savannas,Savanna
+Howlandm,Howlandm,US-Ho1,"Maine, USA",45.2,-68.7402,Mixed Forests,1995–2013,9,Forest,Deciduous broadleaf forest,Evergreen needleleaf,ENF,Evergreen needleleaf forest,Forest
+Hyytiala,Hyytiala,FI-Hyy,Finland,61.85,24.2948,Evergreen Needleleaf,1996–2013,4,Forest,Closed needleleaf forest,Evergreen needleleaf,ENF,Evergreen needleleaf forest,Forest
+Kruger,Kruger,ZA-Kru,South Africa,-25.02,31.4969,Savannas,2000–2010,2,Savannas,Savannas,Savannas,SAV,Savannas,Savanna
+Loobos,Loobos,NL-Loo,Netherlands,52.17,5.744,Evergreen Needleleaf,1996–2013,10,Forest,Closed needleleaf forest,Evergreen needleleaf,ENF,Evergreen needleleaf forest,Forest
+Merbleue,Merbleue,CA-Mer,"Ontario, Canada",45.41,-75.5187,Permanent Wetlands,1998–2013,7,Wetland,Permanent Wetlands,Permanent Wetlands,WET,Wetlands,Wetland
+Mopane,Mopane,BW-Ma1,Botswana,-19.92,23.5603,Savannas,1999–2001,3,Savannas,Savannas,Woody savanna,WSA,Woody savannas,Savanna
+Palang,Palang,ID-Pag,Indonesia,-2.35,114.036,Evergreen Broadleaf,2002–2013,2,Forest,Evergreen broadleaf forest,Evergreen broadleaf,EBF,Evergreen broadleaf forest,Forest
+Sylvania,Sylvania,US-Syv,US,46.24,-89.3477,Mixed Forests,2001–2009,4,Forest,Deciduous broadleaf forest,Mixed forest,MF,Mixed forests,Forest
+Tumba,Tumba,AU-Tum,Australia,-35.66,148.152,Evergreen Broadleaf,2000–2013,4,Forest,Evergreen broadleaf forest,Evergreen broadleaf,EBF,Evergreen broadleaf forest,Forest
+UniMich,UniMich,US-UMB,"Michigan, USA",45.56,-84.7138,Deciduous Broadleaf,1998–2013,5,Forest,Deciduous broadleaf forest,Deciduous broadleaf,DBF,Deciduous broadleaf forest,Forest
